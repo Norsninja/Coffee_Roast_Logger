@@ -2,6 +2,12 @@
 
 **Record your coffee roast measurements then visualize them. For post roast note logging.**
 
+## Images
+
+![Roast Dashboard](roast_dashboard.png)
+
+![Roast Recorder](roast_recorder.png)
+
 ## Introduction
 
 Welcome to Coffee_Roast_Logger! This is a tool designed to help you record, log, and visualize your coffee roasting measurements. As a coffee roasting enthusiast, I'm learning more about roasting every day, and I'm excited to share these resources to help improve the roasting process.
