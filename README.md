@@ -4,9 +4,9 @@
 
 ## Images
 
-![Roast Dashboard](roast_dashboard.png)
+![Roast Dashboard](roast_dashboard.PNG)
 
-![Roast Recorder](roast_recorder.png)
+![Roast Recorder](roast_recorder.PNG)
 
 ## Introduction
 
